@@ -19,17 +19,17 @@ Check out the version installed by using `git --version` command, the output mus
 - Go to the GUI and you will find your changes.
 ### Steps for making a Pull Request
 #### 1. Forking the repo
-Fork the repo to which you want to make a PR by clicking on this symbol ![alt text](https://github.com/aswarth123/GitHub-Starter-Guide/blob/main/screenshots/fork.png) on the top right corner of the repo.
+Fork the repo to which you want to make a PR by clicking on this symbol ![alt text](https://github.com/Jaideep07/GitHub-Starter-Guide/blob/main/screenshots/fork.png) on the top right corner of the repo.
 #### 2. Now follow the steps 2,3,4,5 mentioned in the above section.
 - Your task is to add `[your-name].txt` file to the `collab` folder and then make a PR.  
 #### 3. After you make these changes you need to click on the pull request button and make your PR. 
-![alt text](https://github.com/aswarth123/GitHub-Starter-Guide/blob/main/screenshots/PR1.png)
+![alt text](https://github.com/Jaideep07/GitHub-Starter-Guide/blob/main/screenshots/PR1.png)
 #### 4. After that you will be redirected to this page now again cilck on the `creare pull request` button on this page.
-<img src="https://github.com/aswarth123/GitHub-Starter-Guide/blob/main/screenshots/PR2.png" alt="drawing" width="1200"/>
+<img src="https://github.com/Jaideep07/GitHub-Starter-Guide/blob/main/screenshots/PR2.png" alt="drawing" width="1200"/>
 
 ##### Now you can give a message for the PR and then create it.
 #### 5. After successfull creation of the PR you will be redirected to this page.
-<img src="https://github.com/aswarth123/GitHub-Starter-Guide/blob/main/screenshots/PR3.png" alt="drawing" width="1200"/>
+<img src="https://github.com/Jaideep07/GitHub-Starter-Guide/blob/main/screenshots/PR3.png" alt="drawing" width="1200"/>
 
 #### NOTE:
 1. This repo displays minimal use of git and if you want to explore more then you can refer online resources. We have uploded a few of them you can check them out as well.<br>
