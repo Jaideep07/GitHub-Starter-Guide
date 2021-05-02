@@ -32,6 +32,7 @@ Fork the repo to which you want to make a PR by clicking on this symbol ![alt te
 <img src="https://github.com/aswarth123/GitHub-Starter-Guide/blob/main/screenshots/PR3.png" alt="drawing" width="1200"/>
 
 #### NOTE:
-This repo displays minimal use of git and if you want to explore more then you can refer online resources. We have uploded a few of them you can check them out as well.<br>
-Star the repo if you liked our session and for any furthur queries you can ask in the github discussion section.(avoid using teams and whatsapp)<br>
+1. This repo displays minimal use of git and if you want to explore more then you can refer online resources. We have uploded a few of them you can check them out as well.<br>
+2. Star the repo if you liked our session and for any furthur queries you can ask in the github discussion section.(avoid using teams and whatsapp)<br>
+3. Try to Know more about hacktoberfest [here!](https://hacktoberfest.digitalocean.com/)
 ##### The video of the 1<sup>st</sup> May session has an issue so we request you to read the README of this repo for furthur clarifications.
