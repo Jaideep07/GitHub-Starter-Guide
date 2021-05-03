@@ -24,7 +24,7 @@ Fork the repo to which you want to make a PR by clicking on this symbol ![alt te
 - Your task is to add `[your-name].txt` file to the `collab` folder and then make a PR.  
 #### 3. After you make these changes you need to click on the pull request button and make your PR. 
 ![alt text](https://github.com/Jaideep07/GitHub-Starter-Guide/blob/main/screenshots/PR1.png)
-#### 4. After that you will be redirected to this page now again cilck on the `creare pull request` button on this page.
+#### 4. After that you will be redirected to this page now again cilck on the `create pull request` button on this page.
 <img src="https://github.com/Jaideep07/GitHub-Starter-Guide/blob/main/screenshots/PR2.png" alt="drawing" width="1200"/>
 
 ##### Now you can give a message for the PR and then create it.
