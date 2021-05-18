@@ -35,4 +35,3 @@ Fork the repo to which you want to make a PR by clicking on this symbol ![alt te
 1. This repo displays minimal use of git and if you want to explore more then you can refer online resources. We have uploded a few of them you can check them out as well.<br>
 2. Star the repo if you liked our session and for any furthur queries you can ask in the github discussion section.(avoid using teams and whatsapp)<br>
 3. Try to Know more about <b>Hacktoberfest</b> [here!](https://hacktoberfest.digitalocean.com/)
-##### The video of the 1<sup>st</sup> May session has an issue so we request you to read the README of this repo for furthur clarifications.
